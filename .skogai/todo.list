@@ -1,1 +1,5 @@
 - [ ] add schemas to nvim, especially for mise
+- [ ] mise;setup a basic monorepo at skogai/monorepo
+- [ ] t3;describe and setup workflow
+- [ ] skogai;set up basic doc/adr/
+- [ ] adr;the main starting tools: mise, t3code, herdr, git, arch linux with omarchy workstations
