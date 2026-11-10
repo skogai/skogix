@@ -3,3 +3,5 @@
 - [ ] t3;describe and setup workflow
 - [ ] skogai;set up basic doc/adr/
 - [ ] adr;the main starting tools: mise, t3code, herdr, git, arch linux with omarchy workstations
+- [ ] dot-skogai;create a basic file system layout for .skogai folders
+- [ ] skogai;explain the legacy skogai repos and names to the monorepo concept
