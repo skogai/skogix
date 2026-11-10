@@ -1,0 +1,12 @@
+[env]
+SKOGAI_REPO_NAME = "skogix"
+SKOGAI_HELLO_GREETING = "hello from the skogix repo!"
+
+[_.skogai.skogix]
+description = "greet someone and keep the greeting in /tmp/greeting.txt"
+owns = ["/tmp/greeting.txt"]
+writes = ["/tmp/greeting.txt"]
+
+[tasks.hello]
+usage = 'arg "<who>"'
+run = 'echo "SKOGIX_OVERRIDE:$SKOGAI_HELLO_GREETING $usage_who" | tee /tmp/greeting.txt'
