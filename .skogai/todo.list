@@ -6,3 +6,10 @@
 - [ ] dot-skogai;create a basic file system layout for .skogai folders
 - [ ] skogai;explain the legacy skogai repos and names to the monorepo concept
 - [ ] config;basic encryption via mise dotfiles/bootstrap
+- [ ] claude;make sure the setting/mod for claude actually reading and handling agents.md the same way as a claude.md
+- [ ] dot-skogai;rename .skogai/tests to experiments
+- [ ] tickets;often starts from todo.list-entries (users dump-todo/task-lists) and then made into a issue
+- [ ] environment;setup a starting script which tells both the agent and user about the current environment and setup
+- [ ] environment;setup commit context to automatically append agent,environment and harness information
+- [ ] config/runner;define paths overall as well as a env-lookup
+- [ ] mise;remove the testing configuration and setup what we will follow long term
