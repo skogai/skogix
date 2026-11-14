@@ -1,0 +1,345 @@
+skogai/podman		private	2026-11-14T19:11:35Z
+skogai/monorepo	skogai/monorepo	public	2026-11-14T17:34:35Z
+skogai/codex		private	2026-11-14T17:07:06Z
+skogai/skogix	skogai/skogix	public	2026-11-14T13:09:41Z
+skogai/repomix	📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.	public, fork	2026-11-14T12:34:44Z
+skogai/skogai-core		public	2026-11-14T11:43:34Z
+skogai/skogai-jq		public	2026-11-14T11:43:29Z
+skogai/tuimessenger	WhatsApp, Telegram, Slack and Instagram in one terminal app — local bridges,	public, fork	2026-11-14T09:02:19Z
+skogai/cloudflare		private, fork	2026-11-13T15:54:58Z
+skogai/nvim-omarchy	Neovim config: LazyVim on Omarchy	private	2026-11-13T12:48:00Z
+skogai/mise-plugin	Template for creating mise environment plugins	public, fork	2026-11-13T11:55:57Z
+skogai/skogai	skogai/skogai	public	2026-11-10T12:45:47Z
+skogai/t3code		public, fork	2026-11-09T22:18:32Z
+skogai/harness		public	2026-11-09T06:39:40Z
+skogai/skogharness		public	2026-11-09T06:38:52Z
+skogai/skogOS		public	2026-11-08T21:42:50Z
+skogai/skogai-arcade-design-system		public	2026-11-08T08:35:52Z
+skogai/claude-quickstarts	A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API	public, fork	2026-11-07T22:42:01Z
+skogai/skogai-council	Claude Code plugin that asks several AI coding agents the same question and shows their answers side by side. Gemini, OpenAI, Grok, Perplexity, Kimi and any model OpenRouter routes to over API; codex, antigravity, grok, kimi and cursor CLIs on subscription auth; ollama locally. Codex specialists take coding tasks on their own branch (experimental).	public, fork	2026-11-07T13:08:44Z
+skogai/skogix-2026-nov		private	2026-11-06T13:18:08Z
+skogai/claude-ai-music-skills	Human + AI music production workflow for Suno - skills, templates, and tools	public, fork	2026-11-04T21:44:58Z
+skogai/bknd	Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, React Router, Astro, Cloudflare, Bun, Node, AWS Lambda & more.	public, fork	2026-10-31T18:52:49Z
+skogai/worktrunk	Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows	public, fork	2026-10-31T10:23:42Z
+skogai/skills	skogai/skills	private	2026-10-30T20:36:16Z
+skogai/crush	Glamourous agentic coding for all 💘	public, fork	2026-10-30T03:58:30Z
+skogai/ponytail	Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.	public, fork	2026-10-30T02:46:34Z
+skogai/claude-mem-2	Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More	public, fork	2026-10-29T18:33:08Z
+skogai/nelson	Organisation for Claude Code inspired by time-tested Royal Navy operating procedures.	public, fork	2026-10-25T22:41:42Z
+skogai/skogai-nov10		private, archived	2026-10-25T12:53:59Z
+skogai/core		private	2026-10-24T12:01:38Z
+skogai/captains-deck	Captain's Deck - a read-only Firstmate flow kanban plugin for Herdr	public, fork	2026-10-24T09:08:09Z
+skogai/apm	Agent Package Manager	public, fork	2026-10-23T13:37:15Z
+skogai/firstmate	Talk to one agent. Ship with a crew.	public, fork	2026-10-20T18:57:34Z
+skogai/skillshare	📚 Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Codex, Claude Code, OpenClaw & more	public, fork	2026-10-20T16:01:04Z
+skogai/i-have-adhd	A skill to stop your coding agent from burying the answer. ADHD-friendly output.	public, fork	2026-10-19T19:46:23Z
+skogai/everything-claude-code	The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.	public, fork	2026-10-19T01:34:15Z
+skogai/reporails-cli	AI Instructions Diagnostics | Supported agents: Claude | Codex | Copilot | Cursor | Gemini	public, fork	2026-10-18T19:23:24Z
+skogai/argc-completions	{bash,zsh,fish,powershell,nushell}-completions for 1000+ commands.	public, fork	2026-10-17T03:06:49Z
+skogai/term		public	2026-10-16T20:47:00Z
+skogai/openwiki	OpenWiki is a CLI that writes and maintains agent documentation for your codebase.	public, fork	2026-10-07T23:17:08Z
+skogai/docs	SkogAI docs	private	2026-10-06T17:37:26Z
+skogai/systemd		private	2026-09-27T15:51:25Z
+skogai/toolshed	Six Claude Code plugins for the work that keeps coming back: repo maps, conditional rules, ticketed parallel work, extra subscription models, local usage metrics, and guided setup.	public, fork	2026-09-27T14:29:45Z
+skogai/tools	skogai/tools	private, fork	2026-09-27T14:29:43Z
+skogai/templates	Templates for Cloudflare Workers	public, fork	2026-09-27T14:29:41Z
+skogai/skoggit	Agent orchestration framework with Git-backed storage. Every turn is a Git commit - inspectable, rewindable, forkable.	public, fork	2026-09-27T14:29:38Z
+skogai/skogchattr	Free, local chat where AI coding agents can tag each other, talk, and coordinate with you.	public, fork	2026-09-27T14:29:36Z
+skogai/skogai-gptme	Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!	public, fork	2026-09-27T14:29:30Z
+skogai/skogai-routing		private	2026-09-27T14:29:20Z
+skogai/skogai-agent-template		private	2026-09-27T14:29:18Z
+skogai/paseo	Coding agents from your phone, desktop and CLI	public, fork	2026-09-27T14:29:16Z
+skogai/memsearch	A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.	public, fork	2026-09-27T14:29:14Z
+skogai/mcphub	A unified hub for centrally managing and dynamically orchestrating multiple MCP servers/APIs into separate endpoints with flexible routing strategies.	public, fork	2026-09-27T14:29:12Z
+skogai/marketplace		public	2026-09-27T14:29:10Z
+skogai/goose		private, fork	2026-09-27T14:29:05Z
+skogai/dot-home		public	2026-09-27T14:29:03Z
+skogai/codex-web	a browser frontend for codex desktop, running on a machine you control.	public, fork	2026-09-27T14:29:01Z
+skogai/cloudflare-os	Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.	public, fork	2026-09-27T14:28:59Z
+skogai/claude-profiles		private	2026-09-27T14:28:55Z
+skogai/claude-home		private	2026-09-27T14:28:53Z
+skogai/claude-code-hooks	claude code hooks - adding voice on each hook	public, fork	2026-09-27T14:28:52Z
+skogai/claude-backup2	SkogAI/claude	private	2026-09-27T14:28:49Z
+skogai/basic-memory	AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN	public, fork	2026-09-27T14:28:47Z
+skogai/claude-container-example		private	2026-09-27T13:13:26Z
+skogai/dot-skogai		private	2026-09-27T13:08:12Z
+skogai/ansible-claude-code-devcontainer		public, fork	2026-09-27T13:04:52Z
+skogai/omarchy	Beautiful, Modern & Opinionated Linux	public, fork	2026-09-26T21:35:18Z
+skogai/workflows-starter		private	2026-09-26T20:05:16Z
+skogai/Termix	Self-hosted SSH and remote desktop management.	public, fork	2026-09-26T11:14:33Z
+skogai/skogansible-migration		public, fork	2026-09-25T20:15:31Z
+skogai/hindsight	Hindsight: Agent Memory That Learns	public, fork	2026-09-25T10:35:37Z
+skogai/vscode-ansible	Ansible IDE extension: auto-completion and integrating quality assurance tools like ansible-lint, ansible syntax check, yamllint, molecule and ansible-test.	public, fork	2026-09-25T05:37:44Z
+skogai/skogai-contrib		public	2026-09-25T03:17:16Z
+skogai/ansible-know-mcp	Ansible Knowledge MCP Server - module discovery, documentation search, and skill generation for AI agents via the Model Context Protocol.	public, fork	2026-09-25T02:44:24Z
+skogai/gptme-contrib-4	Tools, plugins, lessons, and scripts for gptme and gptme-powered agents	public, fork	2026-09-25T02:27:48Z
+skogai/gptme-contrib-3	Tools, plugins, lessons, and scripts for gptme and gptme-powered agents	public, fork	2026-09-25T02:27:48Z
+skogai/munder-difflin	local multi-agent harness	public, fork	2026-09-24T20:49:11Z
+skogai/company		public	2026-09-24T19:17:01Z
+skogai/paperclip	The open-source app everyone uses to manage agents at work	public, fork	2026-09-24T06:06:21Z
+skogai/bootstrap		public	2026-09-23T05:21:34Z
+skogai/dash-skogai		private	2026-09-20T14:59:32Z
+skogai/aven	A local-first task manager for power users and agents	public, fork	2026-09-20T05:46:27Z
+skogai/skogterm-ui		public	2026-09-19T17:33:44Z
+skogai/skogwork	skogai/skogwork	public	2026-09-16T14:16:51Z
+skogai/deltachat-claude-code	Delta Chat bot that bridges full Claude Code CLI sessions	public, fork	2026-09-16T14:02:20Z
+skogai/skogai-routing-v2		public	2026-09-16T05:10:14Z
+skogai/skogai-networking		public	2026-09-15T15:38:29Z
+skogai/deepseek-harness	DeepSeek Harness: Everything is a Plugin.	public, fork	2026-09-15T04:51:11Z
+skogai/hush	🤫 Token-lean sessions at the harness level. An easy to grasp output style, output-shrinking hooks, and log compression cut both input and output tokens.	public, fork	2026-09-15T01:14:00Z
+skogai/claude-ansible-skills	A collection of Claude Code skills for Ansible automation development following Red Hat Communities of Practice (CoP) good practices.	public, fork	2026-09-14T14:52:21Z
+skogai/skogcli2		public	2026-09-11T19:03:52Z
+skogai/skogcli	SkogAI CLI	public	2026-09-11T10:50:34Z
+skogai/skogai-gptme-agent		public	2026-09-11T08:05:03Z
+skogai/learn-harness-engineering	Harness engineering beginner tutorial, from 0 to 1	public, fork	2026-09-10T20:52:53Z
+skogai/claude-subconscious	Give Claude Code a subconscious	public, fork	2026-09-10T17:30:52Z
+skogai/skoghooks		private	2026-09-09T17:40:39Z
+skogai/agent-zero-1	Agent Zero AI framework	public, fork	2026-09-09T13:00:57Z
+skogai/agent-zero	Agent Zero AI framework	public, fork	2026-09-09T13:00:57Z
+skogai/workmux	git worktrees + tmux windows for zero-friction parallel dev	public, fork	2026-09-09T00:51:30Z
+skogai/agentsview	Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.	public, fork	2026-09-09T00:48:09Z
+skogai/skogchat	FastMCP server with HTTP transport — generic scaffold for skogchat	private, fork	2026-09-09T00:00:31Z
+skogai/ccmux	One TUI for every AI coding agent session — Claude Code, Codex, Cursor, and more — in sync across every device.	public, fork	2026-09-08T21:32:36Z
+skogai/aws-sam-cli	CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM	public, fork	2026-09-08T09:44:25Z
+skogai/etcd	Distributed reliable key-value store for the most critical data of a distributed system	public, fork	2026-09-07T17:35:34Z
+skogai/gptme-agent-template-1	Agent workspace template for gptme - create persistent autonomous agents that build, learn, socialize, and assist you with whatever you need.	public, fork	2026-09-01T02:36:30Z
+skogai/termix-mcp	MCP server for Termix -- manage SSH hosts, monitor status and tunnels from an AI assistant	public, fork	2026-08-27T08:29:32Z
+skogai/skogai-api		public	2026-08-25T09:03:25Z
+skogai/svim		private	2026-08-25T03:46:17Z
+skogai/Writ	Claude Code harness for AI coding agents. Hybrid-RAG librarian picks relevant rules in 0.59 ms p95 (BM25 + vector + graph traversal); process keeper blocks writes until plan + tests approved. 276 rules / 30 mandatory across 12 domains, 6 cross-language analyzers. Neo4j + Tantivy + hnswlib + ONNX.	public, fork	2026-08-25T01:27:44Z
+skogai/harbor	Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.	public, fork	2026-08-24T10:32:04Z
+skogai/shaders	Zero-dependency canvas shaders that can be installed from npm or designed in Paper	public, fork	2026-08-24T09:17:27Z
+skogai/agent-plugins	Design on a canvas that your agent can read and write to — built on web standards.	public, fork	2026-08-24T06:14:26Z
+skogai/skogharness-ahk	An operating harness for repositories maintained by AI coding agents. Memory hierarchy, verification ladder and reusable workflows.	public, fork	2026-08-23T21:26:42Z
+skogai/doop	The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.	public, fork	2026-08-23T18:51:47Z
+skogai/claude-code-skogai	practice made claude perfect	public, fork	2026-08-23T14:18:59Z
+skogai/zsh-quickstart-kit	A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.	public, fork	2026-08-22T13:16:17Z
+skogai/shame		public	2026-08-22T07:38:27Z
+skogai/fast-agent	Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support	public, fork	2026-08-21T21:29:20Z
+skogai/petdex	A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.	public, fork	2026-08-21T17:15:10Z
+skogai/prezto	The configuration framework for Zsh	public, fork	2026-08-21T00:15:03Z
+skogai/clap	A full featured, fast Command Line Argument Parser for Rust	public, fork	2026-08-20T22:19:52Z
+skogai/paper-mono		public, fork	2026-08-20T21:54:23Z
+skogai/chezmoi	skogai/chezmoi	private	2026-08-20T20:33:36Z
+skogai/prezto-1	The configuration framework for Zsh	public, fork	2026-08-20T20:12:08Z
+skogai/cloudflare-os-starter	A guide for customizing your Cloudflare OS deployment	public, fork	2026-08-19T19:35:51Z
+skogai/dynamic-workers-playground		private	2026-08-18T05:04:37Z
+skogai/codemode-demo		public	2026-08-18T05:04:29Z
+skogai/spec-kit	💫 Toolkit to help you get started with Spec-Driven Development	public, fork	2026-08-17T21:45:56Z
+skogai/sandbox-runtime	A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.	public, fork	2026-08-17T20:55:33Z
+skogai/zsh		private	2026-08-17T19:28:28Z
+skogai/inbox	Give your Claude Code agent its own Inkbox identity: a mailbox, iMessage, a phone number for calls and SMS, and an internet address. Talk to it from anywhere.	public, fork	2026-08-17T07:25:11Z
+skogai/data		private	2026-08-16T21:23:54Z
+skogai/ohmyzsh	🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.	public, fork	2026-08-16T16:16:28Z
+skogai/hotdog	AI agent with zero dependencies, bring your own bun	public, fork	2026-08-16T04:41:31Z
+skogai/internal-sites-template		private	2026-08-15T23:21:36Z
+skogai/fix-pfsense		public	2026-08-15T09:05:48Z
+skogai/world-of-claudecraft		public, fork	2026-08-15T08:04:11Z
+skogai/mattpocock-skills	Skills for Real Engineers. Straight from my .agents directory.	public, fork	2026-08-13T09:06:37Z
+skogai/mcp-server-cloudflare		public, fork	2026-08-11T11:45:57Z
+skogai/skogai-pm	A framework for managing complex projects with spec-driven multi-agent workflows.	public, fork	2026-08-11T09:16:13Z
+skogai/deja	Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync	public, fork	2026-08-10T12:35:08Z
+skogai/claude-backup-home		private	2026-08-10T04:29:17Z
+skogai/ws-term	Terminal access for VMs with network protections on outbound connections	public, fork	2026-08-10T02:28:28Z
+skogai/skogai-agent-skills	.	public, fork	2026-08-08T11:18:06Z
+skogai/cloudflare-skills	Skills for teaching agents how to build on Cloudflare.	public, fork	2026-08-07T17:44:39Z
+skogai/tau	A Python port of Pi’s minimalist coding agent.	public, fork	2026-08-07T08:03:51Z
+skogai/skogbase	The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.	public, fork	2026-08-07T07:50:00Z
+skogai/.github	.github	public	2026-08-07T07:49:08Z
+skogai/yao	✨ Build AI agents and web apps — with a single binary.	public, fork	2026-08-06T16:19:30Z
+skogai/supabase	skogai/supabase	public	2026-08-05T14:52:09Z
+skogai/ai-agents-1	Multi-agent system for software development	public, fork	2026-08-05T08:51:36Z
+skogai/workspace		public	2026-08-02T13:23:27Z
+skogai/argc	A Bash CLI framework, also a Bash command runner.	public, fork	2026-08-02T03:47:29Z
+skogai/skogai-marketplace		private	2026-08-01T18:08:45Z
+skogai/oh-my-pi	⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more	public, fork	2026-08-01T16:51:14Z
+skogai/skogai-memory	AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN	public, fork	2026-07-30T18:10:31Z
+skogai/razor	🪒 YAGNI enforcement at the harness level, nudges toward the simplest solution and gates against unnecessary dependencies, file sprawl, and unchecked build growth.	public, fork	2026-07-30T15:48:29Z
+skogai/ignis	Run Obsidian as a self-hosted web app. Not remote desktop, an actual web app.	public, fork	2026-07-29T12:02:58Z
+skogai/spec-kit-wiki	LLM-maintained compounding project wiki for Spec Kit: source ingestion, cited answers, consistency linting (Karpathy's LLM Wiki pattern)	public, fork	2026-07-29T01:43:43Z
+skogai/gptme-src	Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!	public, fork	2026-07-28T10:08:33Z
+skogai/foundry	⚒️ Claude plugins to boost your development by cutting cost, improve your harness and keeping track of your development.	public, fork	2026-07-28T04:34:05Z
+skogai/radin	🐀 the agentic stack for those who have to save tokens	public, fork	2026-07-28T02:57:55Z
+skogai/foreman	📋 Prompt-engineering and project-roadmap plugin that crafts professional xml prompts and picks, surveys, and tracks your next tasks.	public, fork	2026-07-28T01:18:18Z
+skogai/gptme-contrib-2	Tools, plugins, lessons, and scripts for gptme and gptme-powered agents	public, fork	2026-07-27T06:54:38Z
+skogai/workstation		private	2026-07-24T23:45:43Z
+skogai/skogai-arch		private	2026-07-24T23:24:38Z
+skogai/slag-1	A sandbox marketplace of plugin experiments.	public, fork	2026-07-24T05:46:06Z
+skogai/slag	A sandbox marketplace of plugin experiments.	public, fork	2026-07-24T05:46:06Z
+skogai/pi	AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods	public, fork	2026-07-23T10:18:15Z
+skogai/skogfleet		private	2026-07-23T08:57:52Z
+skogai/clawd-on-desk	A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to.	public, fork	2026-07-23T08:22:34Z
+skogai/buddy	🤫 Token-lean sessions at the harness level. An easy to grasp output style, output-shrinking hooks, and log compression cut both input and output tokens.	public, fork	2026-07-22T22:57:58Z
+skogai/turnstone		public, fork	2026-07-22T15:30:08Z
+skogai/open-harness	A code-first, composable SDK to build powerful AI agents	public, fork	2026-07-22T13:30:06Z
+skogai/agents-workspace	A lightweight AI Agent harness to handle any kind of task! From software engineering to design, marketing, sales, finance, paid media, project management or whatever you need to be done.	public, fork	2026-07-21T21:11:36Z
+skogai/.ansible		private	2026-07-21T08:07:39Z
+skogai/CodeWhale	Open-source, community-driven agent harness	public, fork	2026-07-20T10:45:03Z
+skogai/codelore		public, fork	2026-07-19T16:49:05Z
+skogai/skoglore	skogai/lore	public, fork	2026-07-19T07:09:21Z
+skogai/basic-memory-docs	basic-memory-docs	public, fork	2026-07-16T14:13:03Z
+skogai/superpowers-developing-for-claude-code		public, fork	2026-07-14T16:35:19Z
+skogai/superpowers	An agentic skills framework & software development methodology that works.	public, fork	2026-07-14T16:24:43Z
+skogai/private-journal-mcp	A lightweight MCP server that provides Claude with a private journaling capability to process feelings and thoughts	public, fork	2026-07-14T16:17:41Z
+skogai/gsd-core	Git. Ship. Done - Core	public, fork	2026-07-14T16:04:18Z
+skogai/claude-code-infrastructure-showcase	Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents	public, fork	2026-07-14T06:35:14Z
+skogai/agent-message-queue-1	File-based message queue for local agent-to-agent communication (Maildir-style)	public, fork	2026-07-13T22:18:30Z
+skogai/skogai-zsh		private	2026-07-13T09:52:27Z
+skogai/skogai-automation		public	2026-07-13T09:00:18Z
+skogai/skogai-prompting		private	2026-07-10T11:03:26Z
+skogai/webmcp-agent-example	An example harness implementation utilizing Paper's WebMCP integration through an iframe.	public, fork	2026-07-10T00:31:25Z
+skogai/skills-npx	The open agent skills tool - npx skills	public, fork	2026-07-08T21:23:38Z
+skogai/claude-starter	Advanced Claude Code framework: 40+ skills, meta-commands, TOON format (30-60% token savings), workflow automation & skill orchestration. npx create-claude-starter@latest	public, fork	2026-07-07T06:57:31Z
+skogai/blueprints	A community repository of common self-hosted applications exposed through Pangolin	public, fork	2026-07-04T13:31:36Z
+skogai/claude-history	Fuzzy-search Claude Code conversation history	public, fork	2026-07-04T04:52:20Z
+skogai/superpowers-marketplace	Curated Claude Code plugin marketplace	public, fork	2026-07-02T21:59:22Z
+skogai/words	AI coding jargon, explained in plain English.	public, fork	2026-07-02T13:31:02Z
+skogai/gptme-agent	Agent workspace template for gptme - create persistent autonomous agents that build, learn, socialize, and assist you with whatever you need.	public, fork	2026-07-02T02:07:21Z
+skogai/claude-plugins-official	Official, Anthropic-managed directory of high quality Claude Code Plugins.	public, fork	2026-07-01T16:32:25Z
+skogai/opentype.js	A fork of opentype.js with tree-shakeable entry points.	public, fork	2026-07-01T12:23:38Z
+skogai/harness-v2	A kit for building with AI agents — not just the orchestration, but also the engineering patterns around it.	public, fork	2026-06-30T20:02:27Z
+skogai/tavern		private	2026-06-29T23:53:04Z
+skogai/codebase-memory-mcp	High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.	public, fork	2026-06-27T21:42:43Z
+skogai/llm-chat-app-template2		private	2026-06-27T19:49:31Z
+skogai/ahk-harness		private	2026-06-27T08:57:08Z
+skogai/get-shit-done	A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.	public, fork	2026-06-27T05:41:06Z
+skogai/agent-harness-kit	A provider-agnostic scaffolding kit for running structured multi-agent workflows in your codebase.	public, fork	2026-06-19T19:22:45Z
+skogai/harness-creator		private	2026-06-18T13:38:09Z
+skogai/context-mode	Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms	public, fork	2026-06-15T16:45:32Z
+skogai/codex-desktop-linux	Run OpenAI Codex Desktop on Linux - automated installer	public, fork	2026-06-15T00:11:15Z
+skogai/agent-message-queue	File-based message queue for local agent-to-agent communication (Maildir-style)	public, fork	2026-06-14T07:55:53Z
+skogai/chanfana-openapi-template		public	2026-06-14T01:40:53Z
+skogai/skogapi-cloudflare		private	2026-06-13T22:30:38Z
+skogai/superclaude	A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.	public, fork	2026-06-13T16:40:33Z
+skogai/awesome-claude-code-workflows		public, fork	2026-06-13T12:45:41Z
+skogai/openspec	Spec-driven development (SDD) for AI coding assistants.	public, fork	2026-06-13T01:49:22Z
+skogai/Chathistory	Load your llm conversations and search them.	public, fork	2026-06-13T01:44:00Z
+skogai/agent-harness-skills	Turn real software repos into agent-ready engineering environments with entrypoints, validation, evidence, and delivery records.	public, fork	2026-06-12T13:27:59Z
+skogai/oh-my-agent	Portable, vendor-agnostic agent harness for project-specific skills, workflows, and agent teams aligned with your codebase, conventions, and engineering standards.	public, fork	2026-06-11T10:50:11Z
+skogai/agentmemory	#1 Persistent memory for AI coding agents based on real-world benchmarks	public, fork	2026-06-11T09:48:24Z
+skogai/serena	A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities - the IDE for your agent	public, fork	2026-06-11T09:35:51Z
+skogai/harness-v1	Turn any repo into an agent-ready workspace for Claude Code, Codex, Cursor, and other coding agents.	public, fork	2026-06-11T02:20:43Z
+skogai/qmd	mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local	public, fork	2026-06-08T16:50:52Z
+skogai/obsidian-skills	Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.	public, fork	2026-06-08T16:12:01Z
+skogai/claude-system-prompts	All parts of Claude Code's system prompt, 24 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact, statusline, magic docs, WebFetch, Bash cmd, security review, agent creation). Updated for each Claude Code version.	public, fork	2026-06-08T08:35:53Z
+skogai/ai-agents	Multi-agent system for software development	public, fork	2026-06-08T03:59:56Z
+skogai/learn-harness-engineering-3	Harness engineering beginner tutorial, from 0 to 1	public, fork	2026-06-08T01:24:41Z
+skogai/learn-harness-engineering-2	Harness engineering beginner tutorial, from 0 to 1	public, fork	2026-06-08T01:24:41Z
+skogai/learn-harness-engineering-1	Harness engineering beginner tutorial, from 0 to 1	public, fork	2026-06-08T01:24:41Z
+skogai/consult-llm	Get a second opinion from another AI model	public, fork	2026-06-07T17:30:23Z
+skogai/claude-code	Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.	public, fork	2026-06-04T19:17:48Z
+skogai/AIPass	Persistent Agent Workspace — AI agents that remember, collaborate, and never start from zero.	public, fork	2026-06-04T18:28:32Z
+skogai/skogpass		private	2026-06-04T08:13:18Z
+skogai/fzf-tab	Replace zsh's default completion selection menu with fzf!	public, fork	2026-06-04T05:44:51Z
+skogai/plannotator	Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.	public, fork	2026-06-03T23:10:11Z
+skogai/skogai-memory-v1		private	2026-06-03T21:06:10Z
+skogai/memory	Long-term memory	public, fork	2026-05-30T15:54:08Z
+skogai/skogai-bridge-harness	Real-time NATS bridge for AI agent communication — connects Claude Code and Pi with zero user intervention	public, fork	2026-05-30T03:00:27Z
+skogai/kratos	Your ultimate Go microservices framework for the cloud-native era.	public, fork	2026-05-30T00:38:19Z
+skogai/claude-relay-service	claude-relay	public, fork	2026-05-30T00:38:13Z
+skogai/claude-relay	claude-relay	public, fork	2026-05-30T00:38:06Z
+skogai/skogai-game-studios		private	2026-05-29T06:18:51Z
+skogai/continuity-v2	Long-term memory for Claude Code. Indexes every session as SQLite+FTS5, exposes recall via MCP, and ships PreCompact/PostCompact hooks so nothing is ever lost.	public, fork	2026-05-28T12:15:58Z
+skogai/wiki		private	2026-05-28T09:33:54Z
+skogai/skogtypes		private	2026-05-26T01:23:29Z
+skogai/one-skill-to-rule-them-all	The meta-skill that builds and improves all your skills, including itself. Watches your work sessions, captures corrections and judgement calls, and turns them into skill improvements automatically. Practical application of the Augmented Expertise methodology. Open-source, domain-agnostic, CC BY 4.0.	public, fork	2026-05-24T09:52:26Z
+skogai/wooking-for-work		private	2026-05-24T07:16:06Z
+skogai/AFFiNE	There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.	public, fork	2026-05-24T00:59:41Z
+skogai/hermes-agent	The agent that grows with you	public, fork	2026-05-23T14:35:46Z
+skogai/skogargc	create argc-related files and functions	private	2026-05-23T10:35:52Z
+skogai/health-check	Audit your Claude Code .claude/ setup — scans skills, commands, hooks, agents, and settings for dead refs, weak triggers, token bloat, and skill-listing-budget overflow.	public, fork	2026-05-23T07:13:17Z
+skogai/opensession	AI session sharing platform	public	2026-05-21T18:07:12Z
+skogai/zsh-sage	Intelligent zsh autosuggestions with multi-signal ranking and confidence-colored ghost text	public, fork	2026-05-21T15:51:55Z
+skogai/agentos-docker-template	AgentOS Docker Template	public, fork	2026-05-20T13:32:32Z
+skogai/skogworld	Emergence World: A world designed to reveal what no benchmark can: emergent intelligence.	public, fork	2026-05-17T00:33:54Z
+skogai/Emergence-World	Emergence World: A world designed to reveal what no benchmark can: emergent intelligence.	public, fork	2026-05-15T15:49:44Z
+skogai/skogai-atomic	Claude Code skill that transforms vague AI prompts into clear, specific, actionable ones. Includes Aristotelian First Principles mode for proof-based prompt design.	public, fork	2026-05-15T12:26:14Z
+skogai/story	Cross-session context for Claude Code. CLI + MCP server + /story skill that tracks tickets, issues, handovers, and roadmap in a .story/ directory.	public, fork	2026-05-14T13:17:45Z
+skogai/langship.sh	The platform for shipping, governing AI agents — framework-agnostic, multi-runtime, GitOps-native, self-hosted.	public, fork	2026-05-13T16:47:41Z
+skogai/agent-rules-books	AGENTS.md rules / skills for AI coding agents: Codex, Cursor & Claude Code. Inspired by Clean Code, Refactoring, DDD, Clean Architecture and DDIA programming books.	public, fork	2026-05-13T05:53:15Z
+skogai/ssh-mcp	SSH MCP server that runs locally making it easy to manage hosts and perform commands across a group of hosts	public, fork	2026-05-11T08:17:34Z
+skogai/skogai-tmux	Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍	public, fork	2026-05-10T13:38:12Z
+skogai/oh-my-tmux	Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍	public, fork	2026-05-10T13:38:12Z
+skogai/skogapi		private	2026-05-09T20:24:32Z
+skogai/dufs	A file server that supports static serving, uploading, searching, accessing control, webdav...	public, fork	2026-05-08T23:35:47Z
+skogai/gptme-contrib-1	Tools, plugins, lessons, and scripts for gptme and gptme-powered agents	public, fork	2026-05-06T03:56:58Z
+skogai/claude-context	Code search MCP for Claude Code. Make entire codebase the context for any coding agent.	public, fork	2026-05-06T02:39:26Z
+skogai/mob	i wanted a terminal buddy again 🐸	public, fork	2026-05-06T00:36:27Z
+skogai/skogdev		private, fork	2026-05-05T21:00:42Z
+skogai/skogai-memory-plugin	Official Claude Code plugins from Basic Machines for knowledge management and AI-assisted development	public, fork	2026-05-04T18:37:16Z
+skogai/goose-src	an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM	public, fork	2026-05-01T15:48:32Z
+skogai/goose-1	an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM	public, fork	2026-05-01T15:48:32Z
+skogai/opencode	AI coding agent, built for the terminal.	public, fork	2026-05-01T07:19:55Z
+skogai/openwork	An open-source alternative to Claude Cowork built for teams, powered by opencode	public, fork	2026-04-30T22:59:23Z
+skogai/continuity	Warm restart for Claude Code sessions after context compaction.	public, fork	2026-04-29T05:12:53Z
+skogai/dotfiles-migration1		private, fork	2026-04-28T03:49:14Z
+skogai/skogparse	SkogAI-SkogParse	private, fork	2026-04-28T03:21:16Z
+skogai/gah	gah is an GitHub Releases app installer, that does not require sudo	public, fork	2026-04-27T18:29:12Z
+skogai/skoglog	Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem	public, fork	2026-04-27T18:12:01Z
+skogai/skogtasks		private	2026-04-27T17:54:58Z
+skogai/awesome-claude-code	A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic	public, fork	2026-04-27T14:40:18Z
+skogai/skogagents		private	2026-04-27T09:23:59Z
+skogai/worktrunk-1	Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows	public, fork	2026-04-27T07:15:49Z
+skogai/bootstrap-1		public, fork	2026-04-26T07:40:04Z
+skogai/memory-v3	Brain-inspired persistent memory for AI coding assistants. MAGMA multi-graph, 3-stage retrieval, ACT-R + surprise scoring, constitutional governance, sleep consolidation, self-linking Zettelkasten. Successor to memory-v2.	public, fork	2026-04-26T06:50:12Z
+skogai/memory-v2	Brain-inspired persistent memory for AI coding assistants. Hybrid BM25+vector search, ACT-R activation scoring, FadeMem decay, knowledge graphs, multi-agent coordination. Successor to claude-memory.	public, fork	2026-04-26T06:50:11Z
+skogai/memory-v1	Biological memory system for Claude - hybrid search, periodic notes, and Ebbinghaus-inspired decay scoring	public, fork	2026-04-26T06:49:38Z
+skogai/claude-memory	Biological memory system for Claude - hybrid search, periodic notes, and Ebbinghaus-inspired decay scoring	public, fork	2026-04-26T06:49:38Z
+skogai/dockge	A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager	public, fork	2026-04-25T02:28:26Z
+skogai/gitingest	Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase	public, fork	2026-04-24T10:03:42Z
+skogai/old-marketplace	skogai marketplace	private, fork	2026-04-23T21:04:44Z
+skogai/cliuse	Turn any MCP server into a CLI in one command.	public, fork	2026-04-23T08:43:03Z
+skogai/gita	Manage many git repos with sanity 从容管理多个git库	public, fork	2026-04-22T21:42:53Z
+skogai/agentskills	Specification and documentation for Agent Skills	public, fork	2026-04-22T15:19:45Z
+skogai/codex-obsidian	Codex plugin for local Obsidian workflows through the official desktop CLI.	public, fork	2026-04-22T06:38:45Z
+skogai/claude-profile-switch	Switch between isolated Claude Code profiles in seconds	public, fork	2026-04-21T18:58:48Z
+skogai/skogai-taskrunner	A cli to manage tasks from different task runners or package managers	public, fork	2026-04-21T05:54:20Z
+skogai/skogtodo-migration1	✅ Simple, standards-based, command line todo (aka: task) manager.	public, fork	2026-04-20T14:15:18Z
+skogai/liquid-logo	Turn your logo into liquid metal with Paper Shaders	public, fork	2026-04-20T01:52:35Z
+skogai/skogaichat	All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.	public, fork	2026-04-18T10:14:45Z
+skogai/skogblog-migration1		public, fork	2026-04-18T04:03:05Z
+skogai/agentlog	Persistent decision memory for any project. Karpathy's LLM Wiki, productized.	public, fork	2026-04-17T20:56:07Z
+skogai/cross-llm-mcp	A Model Context Protocol (MCP) server that provides access to multiple Large Language Model (LLM) APIs including ChatGPT, Claude, Gemini, Mistral, Kimi K2, and DeepSeek.	public, fork	2026-04-17T04:41:35Z
+skogai/tools-1	skogai/tools	private, fork	2026-04-15T15:29:01Z
+skogai/claude-code-lsp-enforcement-kit	Hooks that force Claude Code to use LSP instead of Grep for code navigation. Saves ~80% tokens	public, fork	2026-04-14T20:52:02Z
+skogai/paseo-relay	A lightweight self-hosted relay server for Paseo.	public, fork	2026-04-12T03:22:24Z
+skogai/spec-kit-preset-multi-repo-branching	Spec Kit preset: nested repository support for multi-module projects (independent repos + git submodules)	public, fork	2026-04-09T09:36:55Z
+skogai/mini-coding-agent	Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents.	public, fork	2026-04-07T22:07:26Z
+skogai/harness-test	Claude Code-inspired harness blueprint skill for designing agent runtimes.	public, fork	2026-04-05T11:52:06Z
+skogai/tmux-tools	Small tmux utilities for session management.	public, fork	2026-04-04T10:05:44Z
+skogai/tmux-bro	Your friendly tmux session manager	public, fork	2026-04-04T10:05:42Z
+skogai/agent-meet-1	Agent-to-agent communication platform	public, fork	2026-03-29T13:12:58Z
+skogai/agent-meet	Agent-to-agent communication platform	public, fork	2026-03-29T13:12:58Z
+skogai/skogai-live		public, fork	2026-03-11T18:13:21Z
+skogai/arch-mcp	Arch Linux MCP (Model Context Protocol) Server	public, fork	2026-03-10T14:13:54Z
+skogai/sshb	SSH Buddy - Tamagotchi Terminal Pet Daemon	public, fork	2026-03-09T12:02:35Z
+skogai/skogai-web-intro		public, fork	2026-03-08T23:10:45Z
+skogai/skogblog-migration2		public, fork	2026-03-08T22:01:41Z
+skogai/skogcontainer		private, fork	2026-03-08T05:25:38Z
+skogai/skoglessons		private, fork	2026-03-02T05:50:58Z
+skogai/double-shot-latte	Claude Code plugin that automatically evaluates whether Claude should continue working instead of stopping prematurely	public, fork	2026-02-25T23:28:02Z
+skogai/agent-harness	Agent harness docs for AI coding workflows: principles, checklists, invariants, and OpenClaw operations governance.	public, fork	2026-02-23T02:58:22Z
+skogai/arcanechat-tui	[WIP] a lightweight ArcaneChat client for the command line	public, fork	2026-02-04T22:15:52Z
+skogai/skogauth		private, fork	2026-01-31T21:24:36Z
+skogai/opendota-mcp-server	skogai	public, fork	2026-01-28T21:58:50Z
+skogai/google-fonts-scripts	Uses google fonts data to generate a minimal list of typeface names, variants, and makes SVGs of each	public, fork	2026-01-24T01:31:52Z
+skogai/mcphub.nvim	An MCP client for Neovim that seamlessly integrates MCP servers into your editing workflow with an intuitive interface for managing, testing, and using MCP servers with your favorite chat plugins.	public, fork	2026-01-18T10:00:29Z
+skogai/ssh-chat	Chat over SSH.	public, fork	2026-01-10T02:23:23Z
+skogai/skogparse-original	SkogAI Parser	private, fork	2026-01-05T14:13:49Z
+skogai/zgenom	A lightweight and fast plugin manager for ZSH	public, fork	2026-01-01T13:22:10Z
+skogai/skogansible-migration2		private, fork	2025-12-18T17:12:37Z
+skogai/skogchat-history-merger		private, fork	2025-12-18T15:10:18Z
+skogai/RepoMapper	A tool to produce a map of a codebase within a git repository. Based entirely on the "Repo Map" functionality in Aider.chat	public, fork	2025-12-08T14:26:13Z
+skogai/skogix-learn-go-claude-dashboard		private, fork	2025-11-28T13:58:58Z
+skogai/skogix-claude-introduction-migration	skogai	public, fork	2025-11-22T13:57:42Z
+skogai/gh-sub-issue	GitHub CLI extension for managing sub-issues (child issues)	public, fork	2025-10-28T13:29:25Z
+skogai/mcp-hub	A centralized manager for Model Context Protocol (MCP) servers with dynamic server management and monitoring	public, fork	2025-10-24T02:17:55Z
+skogai/skoggotchi	Real-time behavioral enforcement for Claude Code. Monitors AI actions, detects violations, and interrupts misbehavior. Also has a cute pet.	public, fork	2025-10-20T20:33:00Z
+skogai/dotfiles-migration-20250915		private, fork	2025-09-14T23:25:33Z
+skogai/any-cli-mcp-server	Convert any (whatever) CLI to proper MCP server with tools mapped based on CLI help	public, fork	2025-09-04T21:47:28Z
+skogai/prompts	❯ Lightweight, beautiful and user-friendly interactive prompts	public, fork	2025-05-14T16:42:36Z
+skogai/basic-foundation	Basic Foundation is a Python starter kit for building full-stack SaaS applications with FastAPI, PostgreSQL, and HTMX.	public, fork	2024-11-18T23:18:10Z
+skogai/canabalt-hf	A HaxeFlixel port of classic flash game, canabalt!	public, fork	2024-07-11T19:10:45Z
+skogai/cointop	A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀 by @miguelmota	public, fork	2024-04-07T22:46:01Z
+skogai/level-cli	A CLI for leveldb	public, fork	2021-11-28T14:34:24Z
+skogai/skogtodo-migration2	Manage your GitHub Flavored Markdown todo list from the command line	public, fork	2020-04-17T11:54:27Z

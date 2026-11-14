@@ -1,0 +1,47 @@
+skogai2/.dotfiles	mise dotfiles history	private	2026-11-14T18:54:00Z
+skogai2/config		public	2026-11-14T17:19:34Z
+skogai2/marketplace		public	2026-11-13T19:06:27Z
+skogai2/skogpunk	skogpunk	public	2026-11-11T18:12:14Z
+skogai2/skogrpg	skogrpg	private	2026-11-11T17:32:27Z
+skogai2/claude-home	claude-home	public	2026-11-11T12:39:56Z
+skogai2/okn	CLI tool for managing Open Knowledge Format (OKF) bundles.	public, fork	2026-11-11T01:28:42Z
+skogai2/skogai		public	2026-11-10T10:42:21Z
+skogai2/skogai-rpg		public	2026-11-10T08:41:21Z
+skogai2/llm-wiki	LLM knowledge base graph via markdown query search and RAG (Obsidian links friendly). Self-grown, updated, and managed. Human just reads and add interesting concepts & ideas. AI distills, collects evidence, and builds a growing Wiki. Build your own library of knowledge.	public, fork	2026-11-10T06:03:47Z
+skogai2/tennis	tennis	private	2026-11-09T19:21:55Z
+skogai2/core	SkogAI fleet control plane	private	2026-11-09T06:45:59Z
+skogai2/skogai-runner		public	2026-11-09T06:41:36Z
+skogai2/studio	Generic agent-work framework: the reusable mechanics of gamemaker with the game domain removed.	private	2026-11-09T06:35:21Z
+skogai2/skogix		public	2026-11-09T06:33:31Z
+skogai2/skogharness	This is my Claude Code harness, a combination between Anthropic's guidelines for long running harness and an implementation of the Manus style persistent markdown planning with files .	public, fork	2026-11-09T06:31:52Z
+skogai2/skogpop	skogpop	private	2026-11-08T17:30:30Z
+skogai2/projektor	Self hosted Wiki + Jira-style AI native issue tracker on Cloudflare Workers	public, fork	2026-11-08T08:36:33Z
+skogai2/claude-code-playground		public, fork	2026-11-07T22:45:10Z
+skogai2/aliasflare	Self-hosted email aliases on Cloudflare Workers + D1 + Email Routing: Deploy button plus two Email Routing settings, reply from alias, OTP extraction, MCP for AI agents. 自建永久别名邮箱	public, fork	2026-11-07T21:06:24Z
+skogai2/skogdash		public	2026-11-07T05:11:42Z
+skogai2/dash-skogai		public	2026-11-01T19:27:01Z
+skogai2/dot-skogai		public	2026-11-01T13:50:24Z
+skogai2/skogai-routing		public	2026-10-31T22:00:19Z
+skogai2/usage	A specification for CLIs	public, fork	2026-10-30T20:59:39Z
+skogai2/aube	A fast Node.js package manager	public, fork	2026-10-30T20:15:18Z
+skogai2/pitchfork	Daemons with DX	public, fork	2026-10-30T15:40:37Z
+skogai2/hk	git hooks and project lints	public, fork	2026-10-30T12:56:39Z
+skogai2/claude-mem	Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More	public, fork	2026-10-29T19:01:42Z
+skogai2/skogai-docs		public	2026-10-29T12:39:47Z
+skogai2/demand	prompt library for rust	public, fork	2026-10-29T11:06:09Z
+skogai2/docs		private	2026-10-25T19:07:40Z
+skogai2/inbox-mod	A decision queue CLI/TUI for humans working with conversational agents. Agents post questions, humans answer from one inbox.	public, fork	2026-10-24T22:14:32Z
+skogai2/skogai-fleet		public	2026-10-24T09:12:55Z
+skogai2/cli	skogai2/cli	public	2026-10-23T23:54:28Z
+skogai2/skogtokens	CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies	public, fork	2026-10-16T20:41:17Z
+skogai2/captains-deck	Captain's Deck - a read-only Firstmate flow kanban plugin for Herdr	public, fork	2026-10-16T20:02:59Z
+skogai2/forge		public, fork	2026-10-10T21:31:01Z
+skogai2/open-knowledge-plugin	The OKF toolkit for Claude Code — author, maintain, validate & visualize Open Knowledge Format bundles. Plugin, agent skills, and a GitHub Action.	public, fork	2026-10-10T01:08:59Z
+skogai2/claude		public	2026-10-09T23:53:17Z
+skogai2/loadout	Claude Code harness manager: switchable profiles, scope provenance and on/off for every harness element	public, fork	2026-10-08T07:50:30Z
+skogai2/adhd	ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.	public, fork	2026-10-05T18:34:51Z
+skogai2/mise-env-plugin-template	Template for creating mise environment plugins	public, fork	2026-10-05T14:21:35Z
+skogai2/knowledge-catalog	Google Cloud Knowledge Catalog Tools and Samples	public, fork	2026-10-03T03:05:26Z
+skogai2/gptme-contrib	Tools, plugins, lessons, and scripts for gptme and gptme-powered agents	public, fork	2026-10-02T14:10:21Z
+skogai2/dot		public	2026-10-01T23:32:40Z
+skogai2/open-knowledge-format		public, fork	2026-08-21T20:08:36Z

@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "the-startup": {
+      "source": {
+        "source": "directory",
+        "path": "/home/skogix/.local/src/the-startup"
+      }
+    }
+  }
+}
