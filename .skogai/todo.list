@@ -1,15 +1,33 @@
+# Source audit: 2026-11-13; this checkout, ~/Work and ~/.config/nvim.
+# Checked items mean the stated basic scope exists; live integrations were not retested.
+
 - [ ] add schemas to nvim, especially for mise
-- [ ] mise;setup a basic monorepo at skogai/monorepo
+  Partial: JSON/YAML schemas, TOML support and miser.nvim exist in ~/.config/nvim; verify mise schema behavior. Issue: https://github.com/skogai/skogix/issues/1
+- [x] mise;setup a basic monorepo at skogai/monorepo
+  Implemented at ~/Work (skogai/monorepo): mise configuration and submodules.
 - [ ] t3;describe and setup workflow
-- [ ] skogai;set up basic doc/adr/
-- [ ] adr;the main starting tools: mise, t3code, herdr, git, arch linux with omarchy workstations
+  Partial: ~/Work/doc/t3-cli.md, mise.t3.toml and scripts/t3-picker.py exist; document current practices and intended thread lifecycle. Issue: https://github.com/skogai/skogix/issues/2
+- [x] skogai;set up basic doc/adr/
+  Basic directory implemented at ~/Work/doc/adr/ with two records; adr-tools setup and numbering remain separate follow-up work.
+- [x] adr;the main starting tools: mise, t3code, herdr, git, arch linux with omarchy workstations
+  Implemented in ~/Work/doc/adr/0001-starting-tools.md.
 - [ ] dot-skogai;create a basic file system layout for .skogai folders
+  Partial: ~/Work/AGENTS.md defines research and experiment locations; general .skogai conventions remain to be defined.
 - [ ] skogai;explain the legacy skogai repos and names to the monorepo concept
+  Not found; legacy naming and migration remain open in ~/Work/doc/plan.md.
 - [ ] config;basic encryption via mise dotfiles/bootstrap
+  Already tracked: https://github.com/skogai/monorepo/issues/18 (encryption) and https://github.com/skogai/monorepo/issues/17 (bootstrap); implementation not found in the inspected checkout.
 - [ ] claude;make sure the setting/mod for claude actually reading and handling agents.md the same way as a claude.md
+  Configured: ~/Work/CLAUDE.md imports @AGENTS.md; actual harness loading/behavior still needs verification.
 - [ ] dot-skogai;rename .skogai/tests to experiments
+  Not implemented: ~/Work/.skogai/tests and documentation references retain the old name.
 - [ ] tickets;often starts from todo.list-entries (users dump-todo/task-lists) and then made into a issue
+  No documented conversion process found; define how entries become issues and how links/status are retained.
 - [ ] environment;setup a starting script which tells both the agent and user about the current environment and setup
+  Partial: ~/Work/mise.toml provides env:context, env:show and env:test; automatic startup integration not found. Related: https://github.com/skogai/monorepo/issues/17
 - [ ] environment;setup commit context to automatically append agent,environment and harness information
+  Partial: env:context --trailers provides manual Host, Platform and Mise-Env trailers; automatic insertion and agent/harness fields remain.
 - [ ] config/runner;define paths overall as well as a env-lookup
+  Partial: ~/Work/mise-plugin defines workspace/config paths, host/platform defaults, overrides and optional PATH entries; broader runner scope remains. Related: https://github.com/skogai/monorepo/issues/17
 - [ ] mise;remove the testing configuration and setup what we will follow long term
+  Partial: environment fragments, plugin pinning, lockfile and ADR 0002 exist; isolation remains planned and some tool versions still use latest. Related: https://github.com/skogai/monorepo/issues/13
