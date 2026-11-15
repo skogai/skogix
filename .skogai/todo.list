@@ -31,3 +31,6 @@
   Partial: ~/Work/mise-plugin defines workspace/config paths, host/platform defaults, overrides and optional PATH entries; broader runner scope remains. Related: https://github.com/skogai/monorepo/issues/17
 - [ ] mise;remove the testing configuration and setup what we will follow long term
   Partial: environment fragments, plugin pinning, lockfile and ADR 0002 exist; isolation remains planned and some tool versions still use latest. Related: https://github.com/skogai/monorepo/issues/13
+- [ ] config;monitor settings etc maybe per machine?
+- [ ] config;go over all dotfiles in ~/.* as well
+- [ ] config;fix the systemd-skogai-health to either drop directly to agent or once a day max
