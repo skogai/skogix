@@ -1,0 +1,21 @@
+# Skogix test repos, managed with mani (https://manicli.com).
+#
+#   mani list projects                        what the catalog holds
+#   mani sync --status                        what is cloned here (Synced column)
+#   mani sync -t <name> --ignore-sync-state   clone one repo
+#   mani sync --ignore-sync-state             clone all of them
+#   mani run agents                           print each cloned repo's root AGENTS.md
+#   mise run agents:sync                      clone all, then refresh agents/<name>.md (the cached copies)
+#
+# Do not select a repo with -d: it matches path prefixes, so `-d repos/skogai` also clones
+projects:
+  prompts.chat:
+    path: prompts.chat
+    url: https://github.com/skogai/prompts.chat
+  wiki:
+    path: repos/wiki
+    url: https://github.com/skogai/wiki
+tasks:
+  test:
+    desc: test
+    cmd: echo test

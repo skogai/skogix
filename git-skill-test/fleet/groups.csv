@@ -1,0 +1,6 @@
+foundations:bootstrap core dash-skogai dot-github dot-skogai marketplace worktrunk:
+argc:argc argc-completions skogargc skogcli skogdev skogai-taskrunner:
+agents:claude-mem harness skogagents skogaichat skogai-live skogchat skogchat-history-merger skogchattr:
+system:skogansible-migration skogansible-migration2 skogauth ssh-mcp term:
+docs:skogdocs skoglessons skoglog skoglore skogparse skogparse2 skogparse-original skogstack:
+forks:gita gptme gptme-contrib repomix shame skogblog-migration1 skogblog-migration2 skogfleet skogix-claude-introduction-migration skogix-migration skogterm small-hours skogai-tmux skogai-web-intro skogapi:
